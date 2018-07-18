@@ -5,5 +5,5 @@ A "full" application, including unit tests, ready to be configured in a CI serve
 
 Uses phing to run tests and generate the artifacts (code metrics and phar and pear distributions).
 
-TEST234
+TEST2345
 
